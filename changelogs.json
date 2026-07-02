@@ -1,4 +1,20 @@
 ﻿[  {
+    "version": "1.0.25",
+    "date": "2026-07-02",
+    "changes": {
+      "added": [
+"    "Under-the-hood improvements and bug fixes."
+      ]
+    }
+  },  {
+    "version": "1.0.25",
+    "date": "2026-07-02",
+    "changes": {
+      "added": [
+"    "Under-the-hood improvements and bug fixes."
+      ]
+    }
+  },  {
     "version": "1.0.20",
     "date": "2026-07-02",
     "changes": {
@@ -25,5 +41,7 @@
     }
   }
 ]
+
+
 
 

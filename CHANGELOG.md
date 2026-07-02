@@ -1,4 +1,14 @@
-﻿## [1.0.20] - 2026-07-02
+﻿## [1.0.25] - 2026-07-02
+
+### Added / Changed
+- Under-the-hood improvements and bug fixes.
+
+## [1.0.25] - 2026-07-02
+
+### Added / Changed
+- Under-the-hood improvements and bug fixes.
+
+## [1.0.20] - 2026-07-02
 
 ### Added / Changed
 - Under-the-hood improvements and bug fixes.
@@ -12,6 +22,8 @@
 
 ### Added / Changed
 - Initial commit
+
+
 
 
 
